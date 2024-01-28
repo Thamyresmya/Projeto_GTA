@@ -20,20 +20,20 @@
 ## Acesso ao projeto
 É possível acessar o projeto através do [Link](https://github.com/Thamyresmya/Projeto_GTA).
 
-Neste repositório você tem acesso a todo o material produzido no curso.
+Neste repositório você tem acesso a todo os códigos desenvolvido nas lives.
 
 
 ## Abrir e rodar o projeto
-Para abrir e rodar o projeto, basta abrir a página [Link](https://thamyresmya.github.io/Projeto_GTA/l). 
+Para rodar o projeto, basta clicar neste [Link](https://thamyresmya.github.io/Projeto_GTA/). 
 
 
 ## Gif
-Utilização
+Layout responsivo
 <img width="100%" height="350" src="./src/geral/Projeto-GTA.gif"></img>
 
 
 
-## Desenvolvedores
+## Desenvolvedora
 
  [<img src="https://github.com/Thamyresmya.png" width=115><br><sub>Thamyres Cavalcante</sub>](https://github.com/Thamyresmya)  
 
