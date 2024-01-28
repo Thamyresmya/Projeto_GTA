@@ -7,7 +7,7 @@
 ## Descrição do projeto 
 
 <p align="justify">
- Projeto desenvolvido junto com os Irmãos Dev, criação de um site do jogo GTA.
+ Projeto de um site do Jogo GTA, desenvolvido junto com os Irmãos Dev, com layout responsivo.
 </p>
 
 
@@ -29,7 +29,7 @@ Para abrir e rodar o projeto, basta abrir a página [Link](https://thamyresmya.g
 
 ## Gif
 Utilização
-<img width="100%" height="300" src="./src/geral/"></img>
+<img width="100%" height="350" src="./src/geral/Projeto-GTA.gif"></img>
 
 
 

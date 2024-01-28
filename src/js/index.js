@@ -24,15 +24,20 @@ const elementoPlataformas = document.querySelector(".btn-plataforma .plataformas
 //Passo 3
 botao.addEventListener("click", () => {      
     
-    //Objetivo 2
-    const botaoEstaAberto = elementoPlataformas.classList.contains("ativo"); 
+    //toggle alterna entre add e remover a classe ativo
+    //simplificação do codigo abaixo
+    elementoPlataformas.classList.toggle("ativo");
 
-    if(botaoEstaAberto) {
-        elementoPlataformas.classList.remove("ativo");
-    } else {
-        //Passo 4  
-        elementoPlataformas.classList.add("ativo"); 
-    }
+
+    //Objetivo 2
+    // const botaoEstaAberto = elementoPlataformas.classList.contains("ativo");     
+
+    // if(botaoEstaAberto) {
+    //     elementoPlataformas.classList.remove("ativo");
+    // } else {
+    //     //Passo 4  
+    //     elementoPlataformas.classList.add("ativo"); 
+    // }
 
 });
 
