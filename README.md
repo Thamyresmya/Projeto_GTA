@@ -17,26 +17,26 @@
 - `JavaScript`: É uma linguagem de programação que permite adicionar interatividade e dinamismo às páginas web. Com JavaScript, é possível manipular o conteúdo da página, responder a eventos do usuário, realizar chamadas a serviços web, e muito mais. Ele é essencial para o desenvolvimento de aplicativos web modernos e responsivos.
 
 
-## 📁 Acesso ao projeto
+## Acesso ao projeto
 É possível acessar o projeto através do [Link](https://github.com/Thamyresmya/Projeto_GTA).
 
 Neste repositório você tem acesso a todo o material produzido no curso.
 
 
-## 🛠️ Abrir e rodar o projeto
-Para abrir e rodar o projeto, basta abrir o aquivo `index.html` no navegador.
+## Abrir e rodar o projeto
+Para abrir e rodar o projeto, basta abrir a página [Link](https://thamyresmya.github.io/Projeto_GTA/l). 
 
 
-## 📸 Gif
-Cadastro de filmes
-<img width="100%" height="300" src="./geral/img/Filmes-Spring-gif.gif"></img>
+## Gif
+Utilização
+<img width="100%" height="300" src="./src/geral/"></img>
 
 
 
 ## Desenvolvedores
 
-| [<img src="https://github.com/Thamyresmya.png" width=115><br><sub>Thamyres Cavalcante</sub>](https://github.com/Thamyresmya) |   |
-| :---: | :---: 
+ [<img src="https://github.com/Thamyresmya.png" width=115><br><sub>Thamyres Cavalcante</sub>](https://github.com/Thamyresmya)  
+
 
 
 ## 👍 Me siga nas redes sociais
